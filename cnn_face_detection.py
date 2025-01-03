@@ -40,5 +40,3 @@ for (x, y, w, h) in boxes:
 
     cv2.imshow("Output", image)
     cv2.waitKey(0)
-
-    ##finished
